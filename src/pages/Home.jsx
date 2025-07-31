@@ -17,7 +17,7 @@ const Home = () => {
       {/* hero section  */}
       <div className='flex bg-gray-100 justify-around items-center h-[90vh] '>
         <div className='w-1/2 pl-20'>
-          <p className='font-["Kaushan_Script"] text-3xl text-gray-600'>Starting At Only $0.5</p>
+          <p className='font-["Kaushan_Script"] text-3xl text-gray-600'>Starting At Only $0.4</p>
           <h1 className='my-3 tracking-wide leading-15 uppercase text-5xl font-bold'><span className='text-[#F94D1C]'>Summer</span> Special Collection</h1>
           <p className='text-gray-600'>Brand day flat 20% off and free shipping</p>
           <div className='flex items-center gap-4 mt-8'>
